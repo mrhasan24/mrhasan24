@@ -1,4 +1,4 @@
-![Github Banner]([https://www.canva.com/design/DAGa3EDFAfo/v99m1AE0PePaH7_Cpg3qxQ/view?utm_content=DAGa3EDFAfo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2fad657586])
+![Github Banner][https://www.canva.com/design/DAGa3EDFAfo/v99m1AE0PePaH7_Cpg3qxQ/view?utm_content=DAGa3EDFAfo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2fad657586]
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
